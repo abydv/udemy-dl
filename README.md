@@ -78,7 +78,7 @@
 The `cookies.txt` file should have the following simple format, eg:
 
 ```ini
-access_token=JKU9QNs2IQDBKoYKvOBclSPXN97baf32o1Jo2L9vX
+cookie: access_token=JKU9QNs2IQDBKoYKvOBclSPXN97baf32o1Jo2L9vX client_id=JKU9QNs2IQDBKoYKvOBclSPXN97baf32o1Jo2L9v
 ```
 
 
@@ -198,8 +198,3 @@ Example:
   python udemy-dl.py  COURSE_URL -k cookies.txt
   python udemy-dl.py -u user@domain.com -p p4ssw0rd COURSE_URL
 </code></pre>
-
-
-
-## ***TODO***
- - Add support to download course on a flaky connection.
