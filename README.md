@@ -78,7 +78,7 @@
 The `cookies.txt` file should have the following simple format, eg:
 
 ```ini
-access_token=JKU9QNs2IQDBKoYKvOBclSPXN97baf32o1Jo2L9vX
+cookie: access_token=JKU9QNs2IQDBKoYKvOBclSPXN97baf32o1Jo2L9vX client_id=JKU9QNs2IQDBKoYKvOBclSPXN97baf32o1Jo2L9v
 ```
 
 
