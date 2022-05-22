@@ -88,7 +88,7 @@ access_token=JKU9QNs2IQDBKoYKvOBclSPXN97baf32o1Jo2L9vX
 
 You can download the latest version of udemy-dl by cloning the GitHub repository.
 
-    git clone 
+    git clone https://github.com/abydv/udemy-dl.git
 
 ## ***Usage***
 
