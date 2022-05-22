@@ -198,8 +198,3 @@ Example:
   python udemy-dl.py  COURSE_URL -k cookies.txt
   python udemy-dl.py -u user@domain.com -p p4ssw0rd COURSE_URL
 </code></pre>
-
-
-
-## ***TODO***
- - Add support to download course on a flaky connection.
